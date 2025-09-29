@@ -1,4 +1,4 @@
-package net.halbit.prismatica;
+package net.halfbit.prismatica;
 
 import com.mojang.logging.LogUtils;
 import net.minecraftforge.api.distmarker.Dist;

@@ -1,4 +1,4 @@
-package net.halbit.prismatica;
+package net.halfbit.prismatica;
 
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Item;
